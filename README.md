@@ -1,5 +1,4 @@
-# Dinakar1999
-SMS SPAM DETECTION SYSTEM USING NLP PROJECT 01
+# SMS SPAM DETECTION SYSTEM USING NLP PROJECT 01
 
 Spam detection using Natural Language Processing (NLP) is a fascinating and practical application of AI. Here's a brief overview of how it works:
 
